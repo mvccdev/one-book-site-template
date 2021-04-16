@@ -1,0 +1,12 @@
+/* TEAM */
+
+	Developer: Eric Harms
+	Contact: harmse [at] morainevalley.edu
+
+/* SITE */
+
+	Language: English
+	Doctype: HTML
+	Standards: HTML5, CSS3, OOCSS, BEM, ES6
+	Components: Parcel, Page, Marked
+	IDE: Atom

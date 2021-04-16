@@ -1,0 +1,28 @@
+{
+	"name": "flex-site-template",
+	"version": "1.0.0",
+	"description": "This template is used to create websites for our Flex CMS.",
+	"author": "Moraine Valley Community College",
+	"license": "MIT",
+	"keywords": [
+		"mvcc"
+	],
+	"scripts": {
+		"build": "parcel build index.html",
+		"watch": "parcel index.html"
+	},
+	"staticFiles": {
+		"staticPath": "src/public",
+        "watcherGlob": "**"
+	},
+	"devDependencies": {
+		"cssnano": "^4.1.10",
+		"marked": "^0.8.0",
+		"page.js": "^4.13.3",
+		"parcel-plugin-clean-dist": "0.0.6",
+		"parcel-plugin-static-files-copy": "^2.3.1"
+	},
+	"dependencies": {
+		"generic": "^0.1.1"
+	}
+}
