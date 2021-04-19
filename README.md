@@ -1,8 +1,8 @@
 ![](https://img.shields.io/static/v1?label=category&message=template&color=red)
 
-# Flex Site Template
+# One Book Template
 
-This template is used to create websites for our Flex CMS.
+This template is used to create One Book One College websites in Flex.
 
 [Documentation](doc/toc.md)
 

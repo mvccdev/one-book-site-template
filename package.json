@@ -13,7 +13,7 @@
 	},
 	"staticFiles": {
 		"staticPath": "src/public",
-        "watcherGlob": "**"
+		"watcherGlob": "**"
 	},
 	"devDependencies": {
 		"cssnano": "^4.1.10",

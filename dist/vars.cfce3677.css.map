@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/styles/vars.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA","file":"vars.cfce3677.css","sourceRoot":"..","sourcesContent":[":root {\r\n\t--mvcc-primary-color: #000;\r\n\t--mvcc-primary-background-color: #F5C37A;\r\n}\r\n"]}

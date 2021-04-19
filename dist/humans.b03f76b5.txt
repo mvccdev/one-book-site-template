@@ -2,7 +2,6 @@
 
 	Developer: Eric Harms
 	Contact: harmse [at] morainevalley.edu
-	From: Oakforest, Illinois
 
 /* SITE */
 
