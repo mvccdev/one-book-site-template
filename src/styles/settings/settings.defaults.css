@@ -1,4 +1,17 @@
+/**
+ * Put overrides inside here
+ */
+
 :root {
-	--mvcc-primary-color: #000;
-	--mvcc-primary-background-color: #F5C37A;
+	/*
+      elements
+	  ======================================================================= */
+
+	/*
+      custom
+	  ======================================================================= */
+
+		/* quotebox */
+
+		--custom-quote-box-color: blue;
 }

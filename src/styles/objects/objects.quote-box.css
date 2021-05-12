@@ -1,0 +1,32 @@
+/* ==========================================================================
+   #objects.quotebox
+   ========================================================================== */
+
+/**
+ * The quotebox object is used to create the sidebar quotebox.
+ *
+ * Usage:
+ *
+ * <a class="mvcc-link" href="#"></a>
+ */
+
+.custom-quote-box {
+	position: relative;
+	padding: 20px 20px 20px 65px;
+	border-radius: 8px;
+	color: #fff;
+	background-color: #222;
+}
+
+.custom-quote-box:before {
+	position: absolute;
+	left: 20px;
+	top: 5px;
+	content: "\201C";font-family: Georgia, serif;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.custom-quote-box :last-child {
+	margin-bottom: 0;
+}
